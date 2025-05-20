@@ -42,7 +42,8 @@ The following data provides context for the financial planning, forecasting, and
 Alternatively, view individual data components as CSV exports:
 * **Analysis Data:** [View Analysis CSV](./Aura%20-%20Analysis.csv)
 * **Sales Forecast:** [View Sales Forecast CSV](./Aura%20-%20Sales%20Forecast.csv)
-* **Expense Budget:** [View Expense Budget CSV](./Aura%20-%20Exspense%20Budget.csv) * **Profit & Loss (P&L) Statement:** [View P&L Statement CSV](./Aura%20-%20Profit%20&%20Loss%20(P&L)%20Statement.csv)
+* **Expense Budget:** [View Expense Budget CSV](./Aura%20-%20Exspense%20Budget.csv)
+* **Profit & Loss (P&L) Statement:** [View P&L Statement CSV](./Aura%20-%20Profit%20&%20Loss%20(P&L)%20Statement.csv)
 * **Cash Flow Projection:** [View Cash Flow Projection CSV](./Aura%20-%20Cash%20Flow%20Projection.csv)
 * **KPI Dashboard Metrics:** [View KPI Dashboard CSV](./Aura%20-%20KPI%20Dashboard.csv)
 
