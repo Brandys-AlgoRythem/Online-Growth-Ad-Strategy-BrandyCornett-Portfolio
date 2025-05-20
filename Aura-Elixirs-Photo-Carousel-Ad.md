@@ -2,7 +2,7 @@
 
 ✨ **From Concept to Campaign for a Mock Tech Venture** ✨
 
-This project showcases the process of building a brand identity and initial advertising strategy for "Aura," a hypothetical tech business, from the ground up. It's a demonstration of strategic thinking in marketing, content creation, and brand messaging, designed to take a new product from an idea to a market-ready concept. The financial projections and business analysis for Aura (previously documented) provide the foundational business context for this advertising work.
+This project showcases the process of building a brand identity and initial advertising strategy for "Aura," a hypothetical tech business, from the ground up. It's a demonstration of strategic thinking in marketing, content creation, and brand messaging, designed to take a new product from an idea to a market-ready concept. The financial projections and business analysis for Aura (accessible via the [**Aura Financials Google Sheet here**](https://docs.google.com/spreadsheets/d/1aQovV6U5lPfw7v_mUeOR2OMquw6sb1LEu8K3nIR4KgU/edit?usp=sharing) and also represented by individual CSV data files) provide the foundational business context for this advertising work.
 
 ---
 
@@ -45,12 +45,11 @@ The reel visually walks through the following four ad concepts:
 This "Aura" project is a portfolio piece created to demonstrate capabilities in:
 
 * **Brand Strategy & Development:** Crafting a compelling narrative, mission, and identity for a new technology product.
+* **Financial Modeling & Business Analysis:** Utilizing spreadsheet software (e.g., **Google Sheets**) to develop projections (sales, expenses, cash flow), P&L statements, and KPI dashboards. The comprehensive financial model can be viewed in the [**Aura Financial Projections Google Sheet**](https://docs.google.com/spreadsheets/d/1aQovV6U5lPfw7v_mUeOR2OMquw6sb1LEu8K3nIR4KgU/edit?usp=sharing). (Individual CSV exports such as `Aura - Analysis.csv`, `Aura - Sales Forecast.csv`, etc., were also derived from this model).
 * **Marketing & Advertising Concepts:** Designing a multi-stage digital ad campaign tailored to a new business's launch phase.
 * **Content Creation & Articulation:** Conceptualizing and describing visual and textual content for digital advertisements.
-* **Strategic Thinking:** Aligning marketing initiatives with overarching business goals, such as generating awareness, addressing user needs, and driving initial user acquisition.
+* **Strategic Thinking:** Aligning marketing initiatives with overarching business goals, informed by data analysis and financial planning.
 
 The approach taken for Aura mirrors how I would strategize and execute a go-to-market plan for a real-world business, helping it to effectively establish its presence and connect with its target audience.
 
 ---
-
-This format should look great on your GitHub profile and clearly communicate the value and thought process behind your "Aura" ad campaign project!
