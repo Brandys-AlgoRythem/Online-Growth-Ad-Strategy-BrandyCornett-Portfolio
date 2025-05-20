@@ -1,0 +1,34 @@
+Row,Section,Item,Value/Input,Notes
+1,**A. General Growth Assumptions**,Start Date of Projections,"June 1, 2024",Beginning date of financial projections.
+2,**A. General Growth Assumptions**,Projection Period (Months),12,Analyzing data for the next 12 months.
+3,**A. General Growth Assumptions**,Currency Symbol,$,The currency symbol used throughout the financial model.
+4,**A. General Growth Assumptions**,"Tax Rate (Sales Tax, if applicable)",8%,Sales tax rate applied to revenue.
+5,**B. Revenue Drivers**,Average Order Value (AOV) - Base,$45.00,Initial AOV at the start of the projection period.
+6,**B. Revenue Drivers**,AOV - Target EOY1,$50.00,Targeted AOV at the end of Year 1. Modest increase due to limited strategy thus far.
+7,**B. Revenue Drivers**,Monthly AOV Growth Mechanism,Linear Increase,A slight linear increase planned; awaiting feedback for more detailed tactics.
+8,**B. Revenue Drivers**,Website Conversion Rate - Base (Start of Y1),0.80%,"Initial conversion rate at the start of Year 1, notably low."
+9,**B. Revenue Drivers**,Website Conversion Rate - Target EOY1,1.00%,"Targeted conversion rate at the end of Year 1. A slight increase, reflecting current limited improvements."
+10,**B. Revenue Drivers**,Monthly Conversion Rate Growth Mechanism,Tied to Marketing Efforts,Growth dependent on the success of revised marketing.
+11,**B. Revenue Drivers**,Organic Traffic - Base (Month 1),"2,500 Visitors","Initial number of organic visitors in the first month, lower than expected."
+12,**B. Revenue Drivers**,Organic Traffic Monthly Growth Rate,5%,Modest percentage increase in organic traffic each month due to limited SEO activities.
+13,**B. Revenue Drivers**,Paid Traffic - Budget Driven:,(Reference Marketing Budget),Linked to the Marketing Budget section for details on expenditure.
+14,**B. Revenue Drivers**,Paid Traffic - Assumed Cost Per Click (CPC),$2.00,"Cost per click for paid traffic, on the higher side indicating potential inefficiency."
+15,**B. Revenue Drivers**,Customer Retention Rate (Repeat Purchase within 90 days) - Base,8%,"Initial customer retention rate, which is quite low and a potential cause for business struggles."
+16,**B. Revenue Drivers**,Customer Retention Rate - Target EOY1,12%,"Targeted customer retention rate at the end of Year 1, a slight improvement, more aggressive strategies needed."
+17,**B. Revenue Drivers**,Average Customer Lifetime (in months),6 months,"Average duration a customer remains active and makes purchases, suggests high churn."
+18,**C. Cost of Goods Sold (COGS)**,COGS as % of Revenue - Initial,55.00%,"Initial COGS percentage of revenue, high and eating into profits."
+19,**C. Cost of Goods Sold (COGS)**,COGS as % of Revenue - Target EOY1,52.00%,"Targeted COGS percentage of revenue at the end of Year 1, a small reduction planned."
+20,**C. Cost of Goods Sold (COGS)**,Monthly COGS % Improvement Mechanism,Negotiated Bulk Orders,Improvement mechanism to lower costs includes negotiating bulk order discounts.
+21,**C. Cost of Goods Sold (COGS)**,Supplier Payment Terms (Days),15 Days,"Supplier Payment Terms, shorter terms may affect cash flow negatively."
+22,**D. Marketing Expenses**,Monthly Marketing Budget - Start,"$4,000.00","Initial monthly marketing budget, may be underfunded for the market size."
+23,**D. Marketing Expenses**,Monthly Marketing Budget - EOY1 Target,"$6,000.00","Targeted monthly marketing budget at the end of Year 1, a modest increase."
+24,**D. Marketing Expenses**,Monthly Marketing Budget Growth Mechanism,Increase by $500 each Quarter,Budget increases by $500 each quarter.
+25,**D. Marketing Expenses**,Blended ROAS Target,2.0x,"Target Return on Ad Spend, quite low indicating inefficiency."
+26,**D. Marketing Expenses**,Marketing Attribution Model,Last Click,Marketing attribution model in place.
+27,**E. Operating Expenses (Opex)**,Founder/CEO: (Monthly Salary),"$5,000.00",Monthly salary of the Founder/CEO.
+28,**E. Operating Expenses (Opex)**,Marketing Manager: (Monthly Salary),"$3,000.00",Monthly salary of the Marketing Manager.
+29,**E. Operating Expenses (Opex)**,E-commerce Operations Manager: (Monthly Salary),"$2,500.00",Monthly salary of the E-commerce Operations Manager.
+30,**E. Operating Expenses (Opex)**,Customer Service Reps (Total): (Monthly Salary),"$4,000.00",Total monthly salary for 2 Customer Service Reps.
+31,**E. Operating Expenses (Opex)**,Content Creator (Part-Time): (Monthly Stipend),$800.00,Monthly Stipend for Part-Time Content Creator.
+32,**E. Operating Expenses (Opex)**,Freelance Support Budget: (Monthly Amount),$500.00,Monthly budget for freelance support.
+33,**E. Operating Expenses (Opex)**,E-commerce Platform (Shopify Plus): (Monthly Fee),$299.00,Monthly fee for Shopify Plus.
