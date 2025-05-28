@@ -16,7 +16,7 @@ This section details the strategic planning behind ad campaigns and provides lin
     * **Video Ad Example:** [Watch Video on Google Drive](https://drive.google.com/file/d/1-1K9RGFw7jUINkIEgCKiLNo3GP5HLN6U/view?usp=drive_link)
     * *A comprehensive blueprint and sample video for a product-focused ad designed for platforms like Instagram Reels and TikTok.*
 * **Aura Elixirs: Instagram Reel Ad Concept**
-    * **Video Reel Example:** [Watch Reel on Google Drive](https://drive.google.com/file/d/1-1K9RGFw7jUINkIEgCKiLNo3GP5HLN6U/view?usp=drive_link)
+    * **Video Reel Example:** [Watch Reel on Google Drive](https://drive.google.com/file/d/1-r2X4v4gdbrNvlVtEzT1zw-j5rBknhuM/view?usp=drive_link)
     * *A sample visual execution of a short-form video ad concept for Instagram Reels.*
 
 ---
