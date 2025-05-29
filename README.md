@@ -1,4 +1,4 @@
-# 🌟 Brandy Cornett: The D2C E-commerce Maestro & Growth Architect 🌟
+# 🌟 Brandy Cornett: The D2C E-commerce Maestro 🌟
 
 ## Revolutionizing Revenue, Mastering E-commerce Ecosystems, and Bridging Unparalleled Business Acumen with Critical Technical Innovation.
 
