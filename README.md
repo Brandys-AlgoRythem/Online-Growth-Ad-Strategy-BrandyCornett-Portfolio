@@ -23,6 +23,24 @@ I possess **deep, hands-on expertise** in all facets of **e-commerce operations*
 
 ---
 
+## 💡 Strategic Projects & Business Case Studies: Fueling E-commerce Success
+
+This section isn't just about projects; it's about my ability to conceptualize, plan, and execute initiatives that drive measurable business impact and optimize the user journey from strategy to conversion.
+
+### **The "Aura" Project: A Masterclass in E-commerce Financial Modeling & Strategy**
+* **Project Overview:** A comprehensive financial and strategic plan for a conceptual e-commerce venture, "Aura." This project serves as a testament to my ability to build a business from the ground up, not just creatively, but with rigorous financial discipline and data-driven foresight. It showcases end-to-end business planning, from budgeting and forecasting to performance tracking.
+* **Core Competencies Highlighted:** **Financial Modeling & Acumen, Strategic Business Planning, Data Analysis, Market Research, E-commerce KPI Development, and P&L Management.**
+
+* **Key Deliverables (View the Data):**
+    * 📊 **[KPI Dashboard](https://github.com/Brandys-AlgoRythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/blob/main/Aura%20-%20KPI%20Dashboard.csv)**: Demonstrates my ability to identify and track critical performance indicators essential for data-driven decision-making in an e-commerce environment.
+    * 💰 **[Expense Budget](https://github.com/Brandys-AlgoRythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/blob/main/Aura%20-%20Exspense%20Budget.csv)**: Showcases meticulous planning for operational and marketing expenditures, a core component of maintaining profitability.
+    * 📈 **[Sales Forecast](https://github.com/Brandys-AlgoRythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/blob/main/Aura%20-%20Sales%20Forecast.csv)**: Highlights my skills in market analysis and predictive modeling to project future revenue and set ambitious but achievable growth targets.
+    * 📄 **[Profit & Loss (P&L) Statement](https://github.com/Brandys-AlgoRythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/blob/main/Aura%20-%20Profit%20%26%20Loss%20(P%26L)%20Statement.csv)**: Provides a clear, integrated view of revenue, costs, and profitability, proving my capability in managing the financial health of a business.
+    * 🌊 **[Cash Flow Projection](https://github.com/Brandys-AlgoRythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/blob/main/Aura%20-%20Cash%20Flow%20Projection.csv)**: Illustrates strategic financial planning to ensure liquidity and operational stability through different business cycles.
+    * 🔍 **[Full Analysis Report](https://github.com/Brandys-AlgoRythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/blob/main/Aura%20-%20Analysis.csv)**: A comprehensive document detailing the market research, competitive analysis, and a strategic rationale behind the financial models.
+
+---
+
 ## 💼 Professional Experience Highlights: Orchestrating E-commerce Triumph
 
 My entrepreneurial journey has been defined by quantifiable success and end-to-end operational mastery—delivering concrete value where it counts.
@@ -30,17 +48,17 @@ My entrepreneurial journey has been defined by quantifiable success and end-to-e
 ### **Founder & Chief Online Growth Strategist | Independent E-commerce Venture - Online | April 2020 – April 2025**
 
 * **Key Achievements: My Direct Impact on Growth & Profitability**
-    * Founded and scaled a D2C e-commerce business to a **top 10 ranking (out of 2M stores)**, establishing a significant market presence and outperforming 99.99% of competitors.
-    * Achieved **over $200,000 in peak annual revenue**, demonstrating a consistent ability to identify and capitalize on market opportunities.
-    * Directed the creation and deployment of **100,000+ videos & 50,000+ photos** for product showcases, ads, & social media, **dramatically boosting engagement & conversions** by creating compelling visual narratives.
-    * Successfully developed & managed a diverse catalog of **5,000+ material items/digital assets & 100+ physical product lines**, showcasing robust **inventory management** and **merchandising strategy**.
+    * Founded and scaled a D2C e-commerce business to a **top 10 ranking (out of 2M stores)**, establishing a significant market presence and outperforming 99.99% of competitors.
+    * Achieved **over $200,000 in peak annual revenue**, demonstrating a consistent ability to identify and capitalize on market opportunities.
+    * Directed the creation and deployment of **100,000+ videos & 50,000+ photos** for product showcases, ads, & social media, **dramatically boosting engagement & conversions** by creating compelling visual narratives.
+    * Successfully developed & managed a diverse catalog of **5,000+ material items/digital assets & 100+ physical product lines**, showcasing robust **inventory management** and **merchandising strategy**.
 * **Strategic Growth & Operations:**
-    * Drove significant **customer acquisition & sales growth** via comprehensive **digital marketing**, emphasizing innovative ad creation and targeted campaigns that consistently delivered ROI.
-    * Oversaw **all e-commerce operations**: including inventory, fulfillment, and payment processing, ensuring seamless and efficient workflows.
-    * Championed **data-driven decision-making** by analyzing sales, web traffic, & marketing performance to refine strategies & maximize profitability.
-    * Built strong **brand identity & customer loyalty** via expert **CRM**, strategic content, & personalized engagement, achieving high customer retention rates.
-    * Managed all financial aspects with expert proficiency (**P&L analysis, budgeting, pricing**) for sustained profitability and fiscal health.
-    * Utilized **HTML/CSS for occasional front-end customizations**, demonstrating high competence in these foundational technologies and enabling rapid platform optimization.
+    * Drove significant **customer acquisition & sales growth** via comprehensive **digital marketing**, emphasizing innovative ad creation and targeted campaigns that consistently delivered ROI.
+    * Oversaw **all e-commerce operations**: including inventory, fulfillment, and payment processing, ensuring seamless and efficient workflows.
+    * Championed **data-driven decision-making** by analyzing sales, web traffic, & marketing performance to refine strategies & maximize profitability.
+    * Built strong **brand identity & customer loyalty** via expert **CRM**, strategic content, & personalized engagement, achieving high customer retention rates.
+    * Managed all financial aspects with expert proficiency (**P&L analysis, budgeting, pricing**) for sustained profitability and fiscal health.
+    * Utilized **HTML/CSS for occasional front-end customizations**, demonstrating high competence in these foundational technologies and enabling rapid platform optimization.
 
 ### **Additional Web Content & Management**
 
@@ -82,18 +100,6 @@ My multifaceted expertise drives efficient operations, compelling digital experi
 
 ---
 
-## 💡 Strategic Projects & Business Case Studies: Fueling E-commerce Success
-
-This section isn't just about projects; it's about my ability to conceptualize, plan, and execute initiatives that drive measurable business impact and optimize the user journey from strategy to conversion.
-
-### **Online Growth & Ad Strategy Portfolio**
-* **Project Overview:** A dedicated portfolio illustrating **detailed advertising campaign plans**, **e-commerce growth strategies**, and **financial modeling** for mock businesses ("Aura" and "Aura Elixirs"). Includes in-depth **case studies** that showcase my expertise in building a brand’s market presence from the ground up, with a focus on **multi-format ad creation (image reels, video ads)** and **strategic market positioning** for maximum **ROI**.
-* **Core Competencies Highlighted:** **Market Research, Strategic Planning, Financial Modeling** (Google Sheets), **Ad Copywriting, Media Planning, Campaign Analysis, Brand Development, Data-Driven Marketing, Conversion Rate Optimization (CRO)**.
-    ➡️ [Explore the Full Ad Strategy Portfolio](https://brandys-algorythem.github.io/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio/)
-    *(The repository for this portfolio is: `https://github.com/brandys-algorythem/Online-Growth-Ad-Strategy-BrandyCornett-Portfolio`)*
-
----
-
 ## 🛠️ Foundational Web Development Projects: Building the Digital Backbone
 
 My hands-on experience building functional, responsive web pages showcases my foundational understanding of core web technologies and meticulous attention to detail. These projects highlight my ability to translate design into user-friendly digital experiences—a critical skill for any modern e-commerce operation.
@@ -113,7 +119,7 @@ My hands-on experience building functional, responsive web pages showcases my fo
 ### **Product Landing Page**
 * A responsive landing page designed to effectively **showcase a product**, incorporating key features, multimedia elements, and clear pricing structures to optimize for **conversion** and sales objectives.
 * Code: [View Code](https://github.com/brandys-algorythem/fcc-responsive-landing-page) | Live Demo: [See it Live](https://brandys-algorythem.github.io/fcc-responsive-landing-page/)
-    * *Note: Please verify the repository and live link for the Product Landing Page and update/remove this note.*
+    * *Note: Please verify the repository and live link for the Product Landing Page and update/remove this note.*
 
 ### **Personal Portfolio Webpage (Early Version)**
 * An early version of a responsive portfolio page developed to showcase initial projects and solidify **foundational HTML/CSS skills** for digital showcasing.
@@ -140,7 +146,7 @@ This section highlights my capacity for strategic planning, complex problem-solv
 ### **Ariya - E-commerce Platform (Further Exploration - *Details Coming Soon*)**
 * A conceptual project exploring the development of a niche **e-commerce platform**, focusing on **user experience**, **vendor integration**, and **marketing strategy** – directly leveraging my extensive background in **D2C e-commerce operations**. This is where my business and technical visions converge to solve real-world problems.
 * Technologies/Skills (Planned): `[e.g., JavaScript, React, Node.js, UI/UX Design Principles]`
-    ➡️ *Repository & Live Demo links will be added here upon development.*
+    ➡️ *Repository & Live Demo links will be added here upon development.*
 
 ---
 
@@ -162,5 +168,5 @@ Ready to discuss how my unique blend of strategic thinking, operational mastery,
 * LinkedIn Profile: [Brandy Cornett on LinkedIn](https://www.linkedin.com/in/brandy-cornett/)
 * Upwork Profile: [Brandy Cornett on Upwork](https://www.upwork.com/freelancers/~01ec97aa7ce57bd510)
 * Email: [cornett.brandy.jane@gmail.com](mailto:cornett.brandy.jane@gmail.com)
-    ➡️ *(For a comprehensive overview of my career, please [View My Full Resume (PDF)](Your_Resume_Link_Here.pdf))*
-    *(Make sure 'Your_Resume_Link_Here.pdf' is replaced with the actual path to your PDF in the repository or a direct URL)*
+    ➡️ *(For a comprehensive overview of my career, please [View My Full Resume (PDF)](Your_Resume_Link_Here.pdf))*
+    *(Make sure 'Your_Resume_Link_Here.pdf' is replaced with the actual path to your PDF in the repository or a direct URL)*
